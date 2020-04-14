@@ -1,6 +1,7 @@
-# DeepReinforcementLearning
-A replica of the AlphaZero methodology in Python
+THIS REPO WAS CLONED AND ADAPTED FROM 
 
-See this article for a summary of the algorithm and run instructions.
+https://github.com/AppliedDataSciencePartners/DeepReinforcementLearning
+
+BASED ON THE ARTICLE FOUND HERE
 
 https://adsp.ai/blog/how-to-build-your-own-alphazero-ai-using-python-and-keras/
